@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=PardoDeveloper&color=blueviolet&style=for-the-badge)  
-# **🚀 Full Stack & Data Scientist | APIs REST | Big Data | Python | Django | Node.js | Express | SQL/NoSQL | React | Angular | JavaScript | Tailwind | CSS**
+# **🚀 Full-Stack Developer | Django[ Rest Framework ] & Node.js [ Express.js ] | APIs REST | Angular & React | TailwindCss | SQL/NoSQL | Escalabilidad ✨**
 
 ## 👨‍💻 Sobre mí  
 💡 Soy un desarrollador Full-Stack con experiencia comprobada en la construcción de soluciones web escalables y seguras, combinando la solidez de Django y Node.js en el backend, con la potencia de Angular y React en el frontend. Me apasiona crear sistemas completos, desde APIs eficientes hasta interfaces modernas y responsivas, siempre orientado a la calidad del código, el rendimiento y la experiencia del usuario.  
