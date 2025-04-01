@@ -2,26 +2,26 @@
 # **🚀 Full Stack & Data Scientist | APIs REST | Big Data | Python | Django | Node.js | Express | SQL/NoSQL | React | Angular | JavaScript | Tailwind | CSS**
 
 ## 👨‍💻 Sobre mí  
-💡 Full Stack & Data Scientist con experiencia en el desarrollo de APIs escalables, procesamiento de datos masivos y optimización de bases de datos SQL/NoSQL. Me apasiona diseñar soluciones eficientes que combinen el poder del desarrollo backend con la ingeniería de datos, permitiendo que las empresas tomen decisiones basadas en datos en tiempo real. Además, cuento con habilidades en el desarrollo frontend utilizando tecnologías como React, Angular, JavaScript, Tailwind CSS y CSS para crear interfaces modernas y responsivas que complementen soluciones backend robustas.
+💡 Soy un desarrollador Full-Stack con experiencia comprobada en la construcción de soluciones web escalables y seguras, combinando la solidez de Django y Node.js en el backend, con la potencia de Angular y React en el frontend. Me apasiona crear sistemas completos, desde APIs eficientes hasta interfaces modernas y responsivas, siempre orientado a la calidad del código, el rendimiento y la experiencia del usuario.
 
-🚀 Tecnologías principales:  
-✅ Backend: Django, Node.js, Express, FastAPI.  
-✅ Frontend: React, Angular, JavaScript, Tailwind CSS, CSS.  
-✅ Bases de datos: PostgreSQL, MySQL, SQL Server, MongoDB.  
-✅ Big Data & ETL: Apache Spark, Airflow, Kafka, Hadoop.  
-✅ DevOps: Docker, Kubernetes, CI/CD.  
-✅ Data Science: Machine Learning (Scikit-learn, TensorFlow), Análisis de datos (Pandas, NumPy, Matplotlib, Seaborn).  
-✅ Automatización & Web Scraping: Python, Selenium, Scrapy  
+Integro habilidades de backend, frontend y bases de datos para crear productos robustos y sostenibles. Mi experiencia con entornos ágiles y herramientas de automatización me permite trabajar eficientemente en todo el ciclo de desarrollo.
 
-🎯 Lo que puedo aportar:  
-🔹 Desarrollo de APIs REST eficientes y seguras con Django REST Framework y Node.js, integradas con soluciones frontend modernas en React o Angular.  
-🔹 Diseño y optimización de bases de datos relacionales y NoSQL (PostgreSQL, MySQL, MongoDB, Redis) para garantizar escalabilidad y rendimiento.  
-🔹 Desarrollo de interfaces frontend responsivas y modernas con React, Angular, Tailwind CSS y CSS, complementando soluciones backend robustas.  
-🔹 Aplicación de técnicas de Machine Learning (Scikit-learn, TensorFlow) y análisis de datos (Pandas, NumPy) para generar insights accionables y modelos predictivos.  
-🔹 Automatización de procesos y web scraping avanzado con Python, Selenium y Scrapy para extracción y análisis de datos en tiempo real.  
-🔹 Colaboración en equipos multidisciplinarios para construir soluciones full stack que integren backend, frontend y ciencia de datos.  
+🚀 Tecnologías principales:
+✅ Backend: Django[ Rest Framework ], Node.js[ Express.js ], FastAPI
+✅ Frontend: Angular, Ionic, React, React Native, JavaScript, TypeScript, TailwindCss, Bootstrap
+✅ Bases de datos: PostgreSQL, MySQL, SQL Server, MongoDB
+✅ DevOps & Automatización: Docker, GitHub Actions, CI/CD, Selenium, Beautiful Soup
+✅ Data Science: Pandas, NumPy, Matplotlib, Seaborn
 
-📌 Busco oportunidades en equipos que necesiten un profesional con un enfoque sólido en desarrollo full stack y ciencia de datos, aportando soluciones integrales que combinen backend robusto, frontend moderno y análisis avanzado de datos para optimizar procesos, mejorar la infraestructura tecnológica y construir sistemas escalables y basados en datos.
+🎯 Lo que puedo aportar:
+🔹 Desarrollo de APIs REST eficientes y seguras con Django REST Framework, Node.js (Express.js) y FastAPI, integradas con soluciones frontend modernas en Angular, React o Ionic.
+🔹 Diseño, modelado y optimización de bases de datos SQL y NoSQL (PostgreSQL, MySQL, SQL Server, MongoDB) asegurando escalabilidad, consistencia y alto rendimiento.
+🔹 Construcción de interfaces frontend modernas, responsivas y accesibles con Angular, React, React Native, Tailwind CSS, Bootstrap y TypeScript.
+🔹 Automatización de procesos, pruebas funcionales y web scraping avanzado utilizando Selenium y Beautiful Soup para tareas repetitivas y extracción de datos en tiempo real.
+🔹 Análisis de datos y visualización efectiva con Pandas, NumPy, Matplotlib y Seaborn, facilitando la toma de decisiones basadas en datos.
+🔹 Colaboración activa en entornos ágiles y equipos multidisciplinarios, integrando backend, frontend y herramientas de automatización en soluciones full stack sólidas.
+
+📌 Busco integrarme a equipos que requieran un desarrollador Full-Stack con experiencia tanto en backend (Django, Node.js) como en frontend (Angular, React, React Native), capaz de construir soluciones completas, escalables y orientadas al rendimiento. Aporto una visión integral que combina el desarrollo de APIs robustas, interfaces modernas y análisis de datos con Python para apoyar la toma de decisiones, mejorar procesos e impulsar la eficiencia tecnológica.
 
 ## 📫 Contacto  
 - **LinkedIn:** [Carlos Pardo](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)  
